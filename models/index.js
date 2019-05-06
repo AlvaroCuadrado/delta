@@ -4,7 +4,7 @@ const path = require('path');
 const Sequelize = require('sequelize');
 
 // To use SQLite data base:
-//    DATABASE_URL = sqlite:quiz.sqlite
+//DATABASE_URL = sqlite:quiz.sqlite
 // To use  Heroku Postgres data base:
 //    DATABASE_URL = postgres://user:passwd@host:port/database
 
